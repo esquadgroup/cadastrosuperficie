@@ -1,0 +1,25 @@
+<svg id="icone-esteira" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90.728" height="77.439" viewBox="0 0 90.728 77.439">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_25" data-name="Retângulo 25" width="90.728" height="77.439" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_53" data-name="Grupo 53" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <path id="Caminho_105" data-name="Caminho 105" d="M101.437,34.264h-64.4a1.479,1.479,0,0,1,0-2.958h64.4a1.479,1.479,0,0,1,0,2.958" transform="translate(-12.188 -10.73)" fill="#3d84ac"/>
+    <path id="Caminho_106" data-name="Caminho 106" d="M101.437,59.5h-64.4a1.479,1.479,0,1,1,0-2.958h64.4a1.479,1.479,0,0,1,0,2.958" transform="translate(-12.188 -19.38)" fill="#3d84ac"/>
+    <path id="Caminho_107" data-name="Caminho 107" d="M101.437,84.732h-64.4a1.479,1.479,0,1,1,0-2.958h64.4a1.479,1.479,0,1,1,0,2.958" transform="translate(-12.188 -28.029)" fill="#3d84ac"/>
+    <path id="Caminho_108" data-name="Caminho 108" d="M111.264,74.905a1.478,1.478,0,0,1-1.479-1.479V9.026a1.479,1.479,0,0,1,2.958,0v64.4a1.478,1.478,0,0,1-1.479,1.479" transform="translate(-37.63 -2.587)" fill="#3d84ac"/>
+    <path id="Caminho_109" data-name="Caminho 109" d="M86.03,74.905a1.478,1.478,0,0,1-1.479-1.479V9.026a1.479,1.479,0,1,1,2.958,0v64.4a1.478,1.478,0,0,1-1.479,1.479" transform="translate(-28.981 -2.587)" fill="#3d84ac"/>
+    <path id="Caminho_110" data-name="Caminho 110" d="M60.8,74.905a1.478,1.478,0,0,1-1.479-1.479V9.026a1.479,1.479,0,0,1,2.958,0v64.4A1.478,1.478,0,0,1,60.8,74.905" transform="translate(-20.332 -2.587)" fill="#3d84ac"/>
+    <path id="Caminho_111" data-name="Caminho 111" d="M55.778,2.251,9.5,14.734c-4.006,0-7.254,5.172-7.254,11.552v45.9L44.6,76.571V37.737l8.966-.609a7.3,7.3,0,0,0,2.207.71c6.17,0,11.172-7.966,11.172-17.794s-5-17.793-11.172-17.793" transform="translate(-0.771 -0.772)" fill="#fff"/>
+    <path id="Caminho_112" data-name="Caminho 112" d="M89.04,20.045c0,9.827-5,17.793-11.172,17.793S66.7,29.873,66.7,20.045s5-17.793,11.172-17.793S89.04,10.218,89.04,20.045" transform="translate(-22.86 -0.772)" fill="#fff"/>
+    <path id="Caminho_113" data-name="Caminho 113" d="M77.1,38.547c-7.094,0-12.652-8.465-12.652-19.272S70,0,77.1,0,89.747,8.467,89.747,19.274,84.19,38.547,77.1,38.547m0-35.587c-5.255,0-9.694,7.471-9.694,16.315s4.44,16.315,9.694,16.315,9.694-7.472,9.694-16.315S82.351,2.96,77.1,2.96" transform="translate(-22.089 -0.001)" fill="#1d4a60"/>
+    <path id="Caminho_114" data-name="Caminho 114" d="M1.479,26.994A1.478,1.478,0,0,1,0,25.515c0-7.2,3.727-12.867,8.524-13.027L54.622.053a1.479,1.479,0,0,1,.77,2.856L8.929,15.442h-.2c-3.13,0-5.775,4.613-5.775,10.074a1.478,1.478,0,0,1-1.479,1.479" transform="translate(0 0)" fill="#1d4a60"/>
+    <path id="Caminho_115" data-name="Caminho 115" d="M65.922,57.375a1.479,1.479,0,0,1-.035-2.958l11.173-.271a1.479,1.479,0,1,1,.072,2.957l-11.172.271h-.037" transform="translate(-22.089 -18.559)" fill="#1d4a60"/>
+    <path id="Caminho_116" data-name="Caminho 116" d="M45.313,86.719,0,82.025V34.795a1.479,1.479,0,1,1,2.958,0V79.358l39.4,4.081V28.553a1.479,1.479,0,0,1,2.958,0Z" transform="translate(0 -9.28)" fill="#1d4a60"/>
+    <path id="Caminho_117" data-name="Caminho 117" d="M41.8,90.143H10.261a1.479,1.479,0,0,1,0-2.958H41.8a1.479,1.479,0,1,1,0,2.958" transform="translate(-3.01 -29.883)" fill="#1d4a60"/>
+    <path id="Caminho_118" data-name="Caminho 118" d="M10.26,63.663a1.479,1.479,0,0,1-.1-2.954L41.7,58.461a1.479,1.479,0,1,1,.21,2.95L10.367,63.659c-.036,0-.072,0-.107,0" transform="translate(-3.01 -20.037)" fill="#1d4a60"/>
+    <path id="Caminho_119" data-name="Caminho 119" d="M10.259,36.516a1.479,1.479,0,0,1-.265-2.934l31.543-5.776a1.479,1.479,0,0,1,.532,2.909L10.528,36.492a1.5,1.5,0,0,1-.268.024" transform="translate(-3.01 -9.522)" fill="#1d4a60"/>
+    <path id="Caminho_120" data-name="Caminho 120" d="M85.884,25.523c0,4.026-2.049,7.29-4.578,7.29s-4.578-3.264-4.578-7.29,2.049-7.29,4.578-7.29,4.578,3.264,4.578,7.29" transform="translate(-26.3 -6.25)" fill="#3d84ac"/>
+  </g>
+</svg>
